@@ -1,5 +1,17 @@
+# IDE files
+# eclipse
+.classpath
+.project
+.settings
+
+# intellij
+.idea
+
 # Compiled class file
 *.class
+target
+bin
+dist
 
 # Log file
 *.log
